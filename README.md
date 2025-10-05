@@ -1,6 +1,7 @@
-<p align='center'>
-  <samp><b>Hello, World!</b><br>
-  <b>The name's Jaami</b><br>
-    <b>I'm a FOSS advocate and quite the geek</b>
-  </samp>
+<h1 align="center">🕂 Jaami called Thomas 🕂</h1>
+
+<p align="center">
+  <i>"Thomas answered him, 'My Lord and my God!'"</i> — John 20:28
 </p>
+
+<p align="center"><b>Soli Deo Gloria</b></p>
